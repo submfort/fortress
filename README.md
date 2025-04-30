@@ -1,6 +1,6 @@
 # Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning
-corl submission for code and website
+code and website for corl submission
 
 code coming soon!
 
-video link: https://www.youtube.com/watch?v=a0XZgwoNLos
+video demo link: https://www.youtube.com/watch?v=a0XZgwoNLos
